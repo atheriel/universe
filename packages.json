@@ -1,0 +1,14 @@
+[
+  {
+    "package": "longears",
+    "url": "https://github.com/atheriel/longears"
+  },
+  {
+    "package": "sigterm",
+    "url": "https://github.com/atheriel/sigterm"
+  },
+  {
+    "package" : "usdt",
+    "url" : "https://github.com/atheriel/usdt"
+  }
+]
