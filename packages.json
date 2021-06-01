@@ -1,19 +1,19 @@
 [
   {
     "package": "openmetrics",
-    "oncran": true
+    "url": "https://github.com/atheriel/openmetrics"
   },
   {
     "package": "rsyslog",
-    "oncran": true
+    "url": "https://github.com/atheriel/rsyslog"
   },
   {
     "package": "log4r",
-    "oncran": true
+    "url": "https://github.com/johnmyleswhite/log4r"
   },
   {
     "package": "httpproblems",
-    "oncran": true
+    "url": "https://github.com/atheriel/httpproblems"
   },
   {
     "package": "longears",
